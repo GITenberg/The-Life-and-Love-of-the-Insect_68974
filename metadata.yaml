@@ -1,0 +1,48 @@
+_repo: The-Life-and-Love-of-the-Insect_68974
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixeira de
+    - Teixeira de Mattos, Alexander Louis
+    - De Mattos, Alexander Teixeira
+    - Mattos, Alexander Teixera de
+    - Mattos, Alexander Teixeria de
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Teixeira_de_Mattos
+creator:
+  author:
+    agent_name: Fabre, Jean-Henri
+    aliases:
+    - Fabre, Jean Henri Casimir
+    - Fabre, Henri
+    - Fabre, J. Henri
+    birthdate: 1823
+    deathdate: 1915
+    gutenberg_agent_id: '735'
+    url: http://www.gutenberg.org/2009/agents/735
+    wikipedia: https://en.wikipedia.org/wiki/Jean_Henri_Fabre
+description: ''
+gutenberg_issued: '2022-09-11'
+identifiers:
+  gutenberg: '68974'
+language: en
+pgterms:marc904: https://archive.org/details/thelifeandloveof00fabriala/page/n8/mode/2up
+pgterms:marc905: 20200420112850fabre
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :Adam and Charles Black,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Life and Love of the Insect
+url: http://www.gutenberg.org/ebooks/68974
